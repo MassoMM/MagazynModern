@@ -1,0 +1,39 @@
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Properties.Resources.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.csproj.GenerateResource.cache
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.csproj.CoreCompileInputs.cache
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\Modern Magazyn.exe.config
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\Modern Magazyn.exe
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\Modern Magazyn.pdb
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.exe
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.pdb
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\mydb.mdf
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\mydb_log.ldf
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\MaterialSkin.dll
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.csproj.CopyComplete
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormDN.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormFlat.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.FormHome.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormDekolux.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormMF.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormSKA.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormWW.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.Komponenty.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\Modern Magazyn.exe.manifest
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\Modern Magazyn.application
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.exe.manifest
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.application
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.Logowanie.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern Magazyn.csprojAssemblyReference.cache
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.wydaniezew.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormWZ.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\zxing.dll
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\zxing.presentation.dll
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\zxing.xml
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\zxing.presentation.xml
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\logo110.jpg
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormQRDN.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\obj\Debug\Modern_Magazyn.Forms.FormQRFlat.resources
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\CircularProgressBar.dll
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\WinFormAnimation.dll
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\CircularProgressBar.xml
+C:\Users\mlyns\source\repos\Modern Magazyn\Modern Magazyn\bin\Debug\WinFormAnimation.xml
